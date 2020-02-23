@@ -37,5 +37,9 @@
     "node-fetch": "^2.3.0",
     "sinon": "^7.2.3",
     "sinon-stub-promise": "^4.0.0"
+  },
+  "dependencies": {
+    "json": "^9.0.6",
+    "server": "^1.0.26"
   }
 }
